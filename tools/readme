@@ -1,0 +1,13 @@
+On Windows you need to download wget utility. You can download it from here:
+http://gnuwin32.sourceforge.net/packages/wget.htm
+
+Or just grab this direct link:
+http://downloads.sourceforge.net/gnuwin32/wget-1.11.4-1-setup.exe
+
+Copy installed files to this directory. They are those:
+
+libeay32.dll
+libiconv2.dll
+libintl3.dll
+libssl32.dll
+wget.exe
