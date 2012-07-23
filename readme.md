@@ -15,6 +15,8 @@ This script is for WordPress theme/plugin/website development. It is not "online
 * it uses latest WordPress
 * and all [WordPress requirements](http://wordpress.org/about/requirements/)
 
+Additionally you can install `svn` CLI tools (for Windows: [win32svn v1.7.5](http://sourceforge.net/projects/win32svn/files/1.7.5/Setup-Subversion-1.7.5.msi)).
+
 ## Notes
 Prepared shell scripts (batch files) are only for Windows for now. You, unix guys, are clever. You can make unix shell scripts easily ;-)
 Pull requests are welcomed :)
